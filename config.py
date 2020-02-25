@@ -1,3 +1,5 @@
+#config file used to update paths of inputs and outputs
+
 
 ##need to change this output folder to where you want the gdb to be created
 output_folder = r"C:\temp\ResourceArea"

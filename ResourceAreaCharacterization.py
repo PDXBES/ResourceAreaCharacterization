@@ -5,7 +5,7 @@ import time
 # This script does intersections of multiple inputs to determine the areas of treated stormwater in a given resource area.
 # Output is provided as a time stamped gdb.
 # Currently all intermediate steps are saved out as feature classes
-# ==> Program is meant to be run using the ArcPro version of Python<==
+# ==> Program is meant to be run using the ArcPro version of Python <==
 
 
 def characterize_resource():
