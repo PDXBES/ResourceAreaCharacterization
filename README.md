@@ -1,0 +1,1 @@
+# ResourceAreaCharacterization
